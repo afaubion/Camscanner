@@ -19,6 +19,7 @@ More detail:
 6. Apply perspective trasform to get scanned image
 
 To install application, must install OpenCV python
+
 To do this, type in terminal:
 
 pip install opencv-python
